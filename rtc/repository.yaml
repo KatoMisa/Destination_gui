@@ -1,7 +1,7 @@
 dest_gui:
   description : RTC for specifying destination using GUI
   git : https://github.com/KatoMisa/dest_gui.git
-  hash :c5a94dc18559867a62e10c40d7542d77496af694
+  hash : c5a94dc18559867a62e10c40d7542d77496af694
   repo_name : dest_gui
 relay_gui:
   description : RTC for sending destination information to ROS
